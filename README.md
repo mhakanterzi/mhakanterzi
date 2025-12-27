@@ -5,7 +5,6 @@ I'm passionate about **Embedded Systems, IoT, and AI-powered Cyber Security** �
 
 ---
 
-💼 Currently an intern at **iCredible Technologies**  
 📍 Based in **Rize, Türkiye**  
 
 ---
